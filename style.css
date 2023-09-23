@@ -1,0 +1,38 @@
+.body{
+    margin-top: 75px;
+    margin-left: 472px;
+    width: 350px;
+    height: 500px;
+    background-color: #262626;
+    padding-top: 28px;
+}
+body{
+    background-color: black;
+}
+
+#display{
+    width: 304px;
+    height: 66px;
+    background-color: #aeaeae;
+    margin-left: 24px;
+    font-size: 28px;
+    pointer-events: none;
+}
+
+.btn{
+    width: 70px;
+    height: 72px;
+}
+.row{
+    padding: 4px;
+    margin-left: 23px;
+}
+.ac{
+    width: 70px;
+    height: 72px;
+    margin-top: 20px;
+    margin-left: 27px;
+}
+.btns{
+    padding-top: 47px;
+}
